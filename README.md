@@ -1,4 +1,5 @@
-<img src="https://yandex.com/images/search?text=github%20readme%20wallpaper&p=1&pos=65&rpt=simage&img_url=http%3A%2F%2Fpabloferreiragonzalez.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F03%2Fatlassian-getting-git-right.jpg&lr=111963">
+<img src="https://user-images.githubusercontent.com/94730528/194750499-7147a192-e266-4975-bd77-4906e5a4654e.jpg">
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Frontend developer</h3>
 
