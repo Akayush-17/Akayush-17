@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bookmark4pages**
 
-- 🌱 I’m currently learning **Flutter and dart**
+- 🌱 I’m currently learning **Django and Flask**
 
 - 👯 I’m looking to collaborate on **Know_my_Ancestors**
 
