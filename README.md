@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on **Bookmark4pages**
+- 🔭 I’m currently working on **Swags**
 
 - 🌱 I’m currently learning **Django and Flask**
 
