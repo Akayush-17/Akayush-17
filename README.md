@@ -29,19 +29,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Replace icons with futuristic versions or SVG animations -->
-  <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-ar21.svg" alt="bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg" alt="css3" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+ 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+ 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg" alt="html5" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" />
-  <img src="https://www.vectorlogo.zone/logos/photoshop/photoshop-icon.svg" alt="photoshop" width="40" height="40"/>
+
 </p>
 
 <!-- Add some futuristic animations or futuristic-themed illustrations here -->
